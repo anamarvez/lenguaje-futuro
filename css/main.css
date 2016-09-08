@@ -1,0 +1,65 @@
+body{
+	font-family: arial;
+}
+
+header{
+	background:url(../img/grupal.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 724px;
+}
+
+.container {
+	width: 1258px;
+	margin-left: 46px;
+}
+
+.boton{
+	background-color: orange;
+	border-radius: 5px;
+	width:100px;
+	height: 30px;
+	margin-top: 80px;
+	padding: 6px 20px;
+	margin-left:100px;
+}
+
+.logo{
+	margin-top: -10px;
+	width: 40%;
+	margin-left:320px;
+}
+
+.menu {
+	margin-top: 70px;
+	margin-left: 200px;
+}
+
+a {	
+	margin: 20px
+}
+
+section {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	max-width: 50px;
+}
+
+
+footer{
+	 background: grey;
+	 background-size: cover;
+	 width:cover;
+	 height: 80px;
+}
+
+span{
+	color: white;
+	padding-left: 0px;
+	position: absolute;
+	top: 1026px;
+}	
+
+img {
+	max-width: 80%;
+}
